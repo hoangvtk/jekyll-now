@@ -18,12 +18,12 @@ avatar: ![_config.yml]({{ site.baseurl }}/images/config.png)
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: hoangvo108@gmail.com
   facebook:
   flickr:
   github: hoangvtk/hoangvtk.github.io
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/hoang-vo-891194143/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
